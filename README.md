@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[https://imseongtae.github.io/movie_app_2021/index.html](https://imseongtae.github.io/movie_app_2021/index.html)
+
 ## Deploy project
 1. install `gh-pages`
 1. include homepage path
